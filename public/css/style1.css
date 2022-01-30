@@ -1,0 +1,16 @@
+img{
+    height: 30%;
+    width: 50%;
+    margin:0 0 0 300px;
+}
+.btn{
+    margin:0 0 0 600px;
+    padding: 20px;
+    
+}
+.bt{
+    background-color:rgb(207, 202, 202) ;
+    color: black;
+    padding: 4px;
+    border-radius: 10px solid black;
+}
